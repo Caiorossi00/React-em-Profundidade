@@ -274,14 +274,14 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 ### 13. Closures
 
 - [x] Escopo léxico - (30/01/2026)
-- [x]Persistência de estado - (30/01/2026)
+- [x] Persistência de estado - (30/01/2026)
 
 ---
 
 ### 14. Prototypes
 
-- Prototype chain
-- Herança prototipal
+- [x] Prototype chain - (01/02/2026)
+- [x] Herança prototipal - (01/02/2026)
 
 ---
 
