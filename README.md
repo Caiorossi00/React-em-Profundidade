@@ -287,9 +287,9 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 15. Classes
 
-- `class`, `constructor`
-- `extends`, `super`
-- Sobrescrita
+- [x] class, constructor - (04/02/2026)
+- [x] extends, super - (04/02/2026)
+- [x] Sobrescrita - (04/02/2026)
 
 ---
 
