@@ -295,8 +295,8 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 16. Módulos
 
-- `import` / `export`
-- Organização e responsabilidade
+- [x] import / export - (05/02/2026)
+- [x] Organização e responsabilidade - (05/02/2026)
 
 ---
 
