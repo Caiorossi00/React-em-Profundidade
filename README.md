@@ -302,8 +302,8 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 17. Validação e erros
 
-- Criação de erros
-- Fluxo de erro
+- [x] Criação de erros - (06/02/2026)
+- [x] Fluxo de erro - - (06/02/2026)
 
 ---
 
