@@ -309,8 +309,8 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 18. Imutabilidade
 
-- [x]Estado imutável - (07/02/2026)
-- [x]Cópia rasa vs profunda - (07/02/2026)
+- [x] Estado imutável - (07/02/2026)
+- [x] Cópia rasa vs profunda - (07/02/2026)
 
 ---
 
