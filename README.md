@@ -303,14 +303,14 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 ### 17. Validação e erros
 
 - [x] Criação de erros - (06/02/2026)
-- [x] Fluxo de erro - - (06/02/2026)
+- [x] Fluxo de erro - (06/02/2026)
 
 ---
 
 ### 18. Imutabilidade
 
-- Estado imutável
-- Cópia rasa vs profunda
+- [x]Estado imutável - (07/02/2026)
+- [x]Cópia rasa vs profunda - (07/02/2026)
 
 ---
 
