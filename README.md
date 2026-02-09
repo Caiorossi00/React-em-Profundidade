@@ -318,9 +318,9 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 19. Performance básica
 
-- Loops
-- Complexidade básica
-- Custo de operações
+- [x] Loops - (09/02/2026)
+- [x] Complexidade básica - (09/02/2026)
+- [x] Custo de operações - (09/02/2026)
 
 ---
 
