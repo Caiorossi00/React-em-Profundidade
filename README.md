@@ -326,8 +326,8 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 20. Debounce e Throttle
 
-- Controle de execução
-- Temporização
+- [x] Controle de execução - (11/02/2026)
+- [x] Temporização - (11/02/2026)
 
 ---
 
