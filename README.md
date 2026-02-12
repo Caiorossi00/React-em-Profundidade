@@ -333,7 +333,7 @@ Compreender como o JavaScript representa valores, realiza coerções e compara d
 
 ### 21. Memória
 
-- Garbage Collection
+- [x] Garbage Collection - (12/02/2026)
 - Vazamentos
 - Referências persistentes
 
